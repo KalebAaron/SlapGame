@@ -23,8 +23,3 @@ function hitNumber() {
 function hitCount() {
   document.getElementById('hits').innerHTML = hits;
 }
-function atZero() {
-  if (health == 0) {
-    document.getElementById('mainPhoto').innerHTML = <img src="assets/images/deadmonkey.svg">
-      }
-}
