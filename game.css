@@ -1,4 +1,5 @@
-.target{
-  height: auto;
-  width: 200px;
+.target {
+  height: 200px;
+  width: auto;
+  display: inline-block;
 }
